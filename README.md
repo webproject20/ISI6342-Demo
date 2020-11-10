@@ -3,13 +3,13 @@
 Hello ISI6342 students!
 
 # Demo 1
-This is where the information for Demo #1 is. 
+This is where the information for Demo 1 is. 
 
 ## Demo 2
-This is where the information for Demo #2 is.
+This is where the information for Demo 2 is.
 
 ### Demo 3
-This is where the information for Demo #3 is.
+This is where the information for Demo 3 is.
 
 - This is a bulleted list
 - Other words
@@ -23,4 +23,5 @@ This is **Bold** and _Italic_ and `Code` text.
 
 This is [Link](url) and ![Image](src).
 ```
+
 Thank you!
