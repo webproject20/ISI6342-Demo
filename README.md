@@ -22,6 +22,6 @@ This is where the information for Demo 3 is.
 This is **Bold** and _Italic_ and `Code` text.
 
 This is [Link](url) and ![Image](src).
-```
+
 
 Thank you!
