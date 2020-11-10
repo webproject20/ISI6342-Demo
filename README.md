@@ -3,26 +3,24 @@
 Hello ISI6342 students!
 
 # Demo 1
+This is where the information for Demo #1 is. 
+
 ## Demo 2
+This is where the information for Demo #2 is.
+
 ### Demo 3
+This is where the information for Demo #3 is.
 
-- Bulleted
-- List
+- This is a bulleted list
+- Other words
+- More words
 
-1. Numbered
-2. List
+1. This is a numbered list
+2. Other words
+3. More words
 
-**Bold** and _Italic_ and `Code` text
+This is **Bold** and _Italic_ and `Code` text.
 
-[Link](url) and ![Image](src)
+This is [Link](url) and ![Image](src).
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/webproject20/ISI6342-Demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
